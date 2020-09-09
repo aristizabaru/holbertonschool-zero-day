@@ -1,2 +1,2 @@
 #GIT
-This project is about git and emacs and git
+This project is about git and text editors
